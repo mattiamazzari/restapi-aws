@@ -1,0 +1,95 @@
+{
+    "Item1": {
+        "dish_id": {
+            "S": "1"
+        },
+        "name": {
+            "S": "Arancini"
+        },
+        "description": {
+            "S": "Fried rice balls stuffed with cheese, peas, and meat"
+        },
+        "price": {
+            "N": "8.99"
+        },
+        "ingredients": {
+            "L": [
+                {"S": "rice"},
+                {"S": "cheese"},
+                {"S": "peas"},
+                {"S": "meat"},
+                {"S": "breadcrumbs"}
+            ]
+        }
+    },
+    "Item2": {
+        "dish_id": {
+            "S": "2"
+        },
+        "name": {
+            "S": "Cannoli"
+        },
+        "description": {
+            "S": "Sicilian pastry dessert consisting of tube-shaped shells of fried pastry dough, filled with a sweet, creamy filling"
+        },
+        "price": {
+            "N": "5.99"
+        },
+        "ingredients": {
+            "L": [
+                {"S": "flour"},
+                {"S": "ricotta cheese"},
+                {"S": "sugar"},
+                {"S": "chocolate chips"}
+            ]
+        }
+    },
+    "Item3": {
+        "dish_id": {
+            "S": "3"
+        },
+        "name": {
+            "S": "Pasta alla Norma"
+        },
+        "description": {
+            "S": "Pasta with tomato sauce, fried eggplant, grated ricotta salata cheese, and basil"
+        },
+        "price": {
+            "N": "12.99"
+        },
+        "ingredients": {
+            "L": [
+                {"S": "pasta"},
+                {"S": "tomato sauce"},
+                {"S": "eggplant"},
+                {"S": "ricotta cheese"},
+                {"S": "basil"}
+            ]
+        }
+    },
+    "Item4": {
+        "dish_id": {
+            "S": "4"
+        },
+        "name": {
+            "S": "Cassata"
+        },
+        "description": {
+            "S": "Sicilian cake consisting of round sponge cake moistened with fruit juices or liqueur and layered with ricotta cheese, candied peel, and a chocolate or vanilla filling similar to cannoli cream"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "ingredients": {
+            "L": [
+                {"S": "sponge cake"},
+                {"S": "fruit juices"},
+                {"S": "liqueur"},
+                {"S": "ricotta cheese"},
+                {"S": "candied peel"},
+                {"S": "chocolate"},
+                {"S": "vanilla"}
+            ]
+        }
+    }
+}
