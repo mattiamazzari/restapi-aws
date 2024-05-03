@@ -1,6 +1,6 @@
 # A Step-by-Step Guide On Deploying REST API using API Gateway, Lambda, DynamoDB, Cognito — Terraform
 
-![restapiaws](https://github.com/mattiamazzari/restapi-aws/assets/71759564/2674b05a-4fc7-4917-867a-5431dda4229b)
+![restapiaws (1)](https://github.com/mattiamazzari/restapi-aws/assets/71759564/f11db44a-70ef-43ca-9ca9-9f943777d409)
 
 The goal is to build an hands-on project which can be used on different kind of situations and which is very common in the real world, in which almost all the applications are based on microservices in modular lego blocks.
 
