@@ -6,4 +6,5 @@ In particular, the goal is to create an API hosted in an API gateway with the ba
 
 Since I was born in Sicily, a beautiful island in Italy, we will create a simple API for managing a list of traditional Sicilian dishes.
 
-Link to the documentation: [A Step-by-Step Guide On Deploying REST API using API Gateway, Lambda, DynamoDB, Cognito — Terraform](https://medium.com/@mattiamazzari/a-step-by-step-guide-on-deploying-rest-api-using-api-gateway-lambda-cognito-terraform-f277814d048e)
+Link to the documentation:
+[A Step-by-Step Guide On Deploying REST API using API Gateway, Lambda, DynamoDB, Cognito — Terraform](https://medium.com/@mattiamazzari/a-step-by-step-guide-on-deploying-rest-api-using-api-gateway-lambda-cognito-terraform-f277814d048e)
